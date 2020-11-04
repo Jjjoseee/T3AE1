@@ -1,3 +1,7 @@
 martinez
 eres el mejor vicent <3
+<<<<<<< HEAD
 user2
+=======
+user1
+>>>>>>> 60b39aaeedeac76a586e3e2336688416343364d9
